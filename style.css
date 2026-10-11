@@ -1,0 +1,72 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    background-color: #f1f5f9;
+}
+
+/* Başlık alanı */
+header {
+    background-color: #234e70;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+/* Menü alanı */
+nav {
+    background-color: #dbeafe;
+    text-align: center;
+    padding: 15px;
+}
+
+nav a {
+    color: #234e70;
+    text-decoration: none;
+    margin: 15px;
+}
+
+/* Ana içerik */
+main {
+    width: 75%;
+    margin: 20px auto;
+    background-color: white;
+    padding: 20px;
+}
+
+/* Giriş bölümü */
+.giris {
+    text-align: center;
+    padding: 20px;
+}
+
+.mavi {
+    color: blue;
+}
+
+/* Güncel yazılar */
+.yazilar article {
+    width: 80%;
+    background-color: #f1f5f9;
+    padding: 15px;
+    margin: 20px auto;
+    text-align: left;
+}
+
+.yazilar img {
+    width: 70%;
+}
+
+/* Popüler konular */
+.populer {
+    background-color: #dbeafe;
+    padding: 15px;
+    margin-top: 20px;
+}
+
+/* Alt bilgi */
+footer {
+    background-color: #234e70;
+    color: white;
+    text-align: center;
+    padding: 15px;
+}
